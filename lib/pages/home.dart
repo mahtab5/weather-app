@@ -3,7 +3,7 @@ import 'dart:ui';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/date_time_patterns.dart';
-import 'package:weather_app/pages/config.dart';
+import 'package:weather_app/assets/config.dart';
 import 'package:weather_app/pages/widgets/additional_information_item.dart';
 import 'package:weather_app/pages/widgets/hourly_forecast_item.dart';
 import 'package:http/http.dart' as http;
